@@ -1,0 +1,12 @@
+{
+  "name": "iFix",
+  "displayName": "iFix",
+  "expo": {
+    "name": "iFix",
+    "slug": "iFix",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
